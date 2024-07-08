@@ -1,0 +1,1 @@
+E:\2024\kafka_2.12-3.7.0\bin\windows\kafka-consumer-groups.bat --bootstrap-server localhost:9092 --list
