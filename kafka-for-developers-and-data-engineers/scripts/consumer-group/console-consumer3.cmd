@@ -1,0 +1,1 @@
+E:\2024\kafka_2.12-2.7.2\bin\windows\kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic consumer-group-demo --group demo-group-four --property print.partition=true --property print.offset=true --property auto.offset.reset=earliest

@@ -1,1 +1,1 @@
-E:\2024\kafka_2.12-3.7.0\bin\windows\zookeeper-server-start.bat E:\2024\kafka_2.12-3.7.0\config\zookeeper.properties
+E:\2024\kafka_2.12-2.7.2\bin\windows\zookeeper-server-start.bat E:\2024\kafka_2.12-2.7.2\config\zookeeper.properties
